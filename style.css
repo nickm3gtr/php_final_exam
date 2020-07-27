@@ -1,0 +1,9 @@
+tr {
+  line-height: 5px;
+  min-height: 5px;
+  height: 5px;
+}
+
+.nav-item {
+  color: white;
+}
